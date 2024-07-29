@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Basic CRUD Operations and Middlewares.props" />
+</Project>
